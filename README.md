@@ -1,10 +1,15 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nguyen Quang Nhat Minh</h1>
 <h3 align="center">Fullstack Developer from VN</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhbear&label=Profile%20views&color=0e75b6&style=flat" alt="minhbear" /> </p>
 
 <p align="left"> <a href="https://twitter.com/minhbear_dev" target="blank"><img src="https://img.shields.io/twitter/follow/minhbear_dev?logo=twitter&style=for-the-badge" alt="minhbear_dev" /></a> </p>
+
+- 🔭 I’m currently working on **Enouvo IT solution**
+
+- 🌱 I’m currently learning **Blockchain (Solana, ETH, ...), Backend, Infrastructure, Cloud**
 
 - 💬 Ask me about **React, NodeJS, Blockchain, ASP.NET, Spring, Message broker, AWS**
 
@@ -16,6 +21,7 @@
 <a href="https://linkedin.com/in/nguyen-quang-nhat-minh-ba471a213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-quang-nhat-minh-ba471a213" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/minhbear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="minhbear" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/minhbear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="minhbear" height="30" width="40" /></a>
+<a href="https://discord.gg/minhbear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="minhbear" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
