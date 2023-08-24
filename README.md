@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://about.codecov.io/wp-content/uploads/2020/09/github-actions.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nguyen Quang Nhat Minh</h1>
 <h3 align="center">Fullstack Developer from VN</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
