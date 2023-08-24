@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)](https://twitter.com/minhbear_dev)
 
 <h1 align="center">Hi 👋, I'm Nguyen Quang Nhat Minh</h1>
-<h3 align="center">Fullstack Developer from VN <img src="https://pbs.twimg.com/profile_images/1674711804042428417/3l7bD7lH_400x400.jpg" width="20" height="20"></h3>
+<h3 align="center">Fullstack Developer from VN <img src="https://pbs.twimg.com/profile_images/1674711804042428417/3l7bD7lH_400x400.jpg" width="100" height="100"></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhbear&label=Profile%20views&color=0e75b6&style=flat" alt="minhbear" /> </p>
