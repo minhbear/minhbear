@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quang Nhat Minh</h1>
 <h3 align="center">Fullstack Developer from VN</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img align="right" alt="coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhbear&label=Profile%20views&color=0e75b6&style=flat" alt="minhbear" /> </p>
 
 <p align="left"> <a href="https://twitter.com/minhbear_dev" target="blank"><img src="https://img.shields.io/twitter/follow/minhbear_dev?logo=twitter&style=for-the-badge" alt="minhbear_dev" /></a> </p>
